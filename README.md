@@ -18,11 +18,6 @@ A 2D top-down spaceshooter written in C# using the Monogame framework.
 * Challenge a powerful boss
 * Change your resolution or play in fullscreen mode
 * Listen to the sounds of space combat
-* The old javascript version is also there
-* There is an options menu
-* I think you can go fullscreen too
-* The old javascript/html version sucks btw. but you can find it in the releases as well
-* There are sounds as well my dude
 
 ## Engine Features
 
