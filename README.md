@@ -24,7 +24,7 @@ A 2D top-down spaceshooter written in C# using the Monogame framework.
 * The old javascript/html version sucks btw. but you can find it in the releases as well
 * There are sounds as well my dude
 
-## Code Features
+## Engine Features
 
 The games code contains around 18k lines of code and multiple features were hand-crafted from scratch:
 
