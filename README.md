@@ -36,6 +36,10 @@ The games code contains around 18k lines of code and multiple features were hand
 * A game settings menu, with options that persist between different application runs
 * A game object system with support for components (for example: sprite renderer, collision or sprite animator components)
 
-## Old Versions
+## Older Versions
 
 A list of release versions (including the old javascript/html version of Archon 1) can be found [here](https://github.com/duzychri/Archon-2/releases "Archon 2 Releases")
+
+:warning: **Note:**
+For some of the older versions of the game there's a bug where the game doesn't start or returns an error that an xml file could not be read. This is due to an incompatible settings file.
+To fix this issue got to the _AppData/Roaming/Archon 2_ folder and delete the _settings.xml_ file. (To open the _AppData_ folder press `Win + R`, type in `%AppData%` and press enter.)
