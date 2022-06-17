@@ -5,8 +5,8 @@
 A 2D top-down spaceshooter written in C# using the Monogame framework.
 
 <p align="center">
-  <img width="320" height="180" src="https://github.com/duzychri/Archon-2/blob/main/images/screenshot_1.png?raw=true">
-  <img width="320" height="180" src="https://github.com/duzychri/Archon-2/blob/main/images/screenshot_2.png?raw=true">
+  <img width="320" height="180" src="https://github.com/duzychri/Archon-2/blob/main/images/v2.2.0/screenshot_1.png?raw=true">
+  <img width="320" height="180" src="https://github.com/duzychri/Archon-2/blob/main/images/v2.2.0/screenshot_2.png?raw=true">
 </p>
 
 **[:rocket: Download the newest version here :rocket:](https://github.com/duzychri/Archon-2/releases/latest "Archon 2 Release")**
